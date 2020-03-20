@@ -2,9 +2,9 @@ package Uvsq21923164.exo3_4;
 
 
 
-public class SimplePrinter implements print {
+public class SimplePrinter implements printt {
 
-	public void print() {
+	public void printt() {
 		/*print a document */
 		
 	}
